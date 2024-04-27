@@ -1,0 +1,16 @@
+setup.py
+Homework_Immersion_in_Python_8/__init__.py
+Homework_Immersion_in_Python_8/task_hwIP_8_1.py
+Task_Workshop_8/__init__.py
+Task_Workshop_8/task_8_1.py
+Task_Workshop_8/task_8_2.py
+Task_Workshop_8/task_8_3.py
+Task_Workshop_8/task_8_4.py
+Task_Workshop_8/task_8_5.py
+Task_Workshop_8/task_8_5a.py
+Task_Workshop_8/task_8_6.py
+Task_Workshop_8/task_8_7.py
+package_for_files_different_formats.egg-info/PKG-INFO
+package_for_files_different_formats.egg-info/SOURCES.txt
+package_for_files_different_formats.egg-info/dependency_links.txt
+package_for_files_different_formats.egg-info/top_level.txt

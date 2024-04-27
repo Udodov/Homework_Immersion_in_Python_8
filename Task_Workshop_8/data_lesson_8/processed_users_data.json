@@ -1,0 +1,56 @@
+[
+    {
+        "Access Level": "1",
+        "User ID": "0001235456",
+        "Name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
+        "Hash": "7ce4c4add4b4e8403ff2a62f9d3c990095d28dffa23bb5bfa85c069852209499"
+    },
+    {
+        "Access Level": "1",
+        "User ID": "0004547876",
+        "Name": "\u041e\u043b\u044c\u0433\u0430",
+        "Hash": "22b55cc2e5e7918be5cb97854c71f83e107ad14bcbe845eec5821226acee92c8"
+    },
+    {
+        "Access Level": "1",
+        "User ID": "0000123546",
+        "Name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
+        "Hash": "45a7d2e665fba4f38af8d134f4424df099aeadb292f271e35b41a30ed1c35e5a"
+    },
+    {
+        "Access Level": "2",
+        "User ID": "0004546578",
+        "Name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439",
+        "Hash": "6eb9be38293c5185a4190ae58c4ad625bd4ddac739a90a8f8fa107ba74438b4b"
+    },
+    {
+        "Access Level": "2",
+        "User ID": "0005879855",
+        "Name": "\u0418\u0432\u0430\u043d",
+        "Hash": "067ff2d648ed9670b97e792fa11f784fb931c07dc7c627471b6a5c832328f4f1"
+    },
+    {
+        "Access Level": "3",
+        "User ID": "0005546554",
+        "Name": "\u0421\u0435\u0440\u0433\u0435\u0439",
+        "Hash": "981abac0af5e6566b3376b2ea469c77efc9bfd611d443adb292d3033ba8441d8"
+    },
+    {
+        "Access Level": "3",
+        "User ID": "0007789854",
+        "Name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439",
+        "Hash": "6c713618dfc267f5a270eefc7994012a073c1c1e6cb31c0df07ba11a7ff8eece"
+    },
+    {
+        "Access Level": "7",
+        "User ID": "0000000010",
+        "Name": "\u0418\u0432\u0430\u043d",
+        "Hash": "945357c82ee2147c2add2baa0fe0268336f2e808298e8c64ce06feb899c1bbf6"
+    },
+    {
+        "Access Level": "8",
+        "User ID": "0004657555",
+        "Name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
+        "Hash": "46669ce019bab3e1420101e3cabecafdfd6c6ca3ce26f752fd051c6a79006c7e"
+    }
+]
